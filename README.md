@@ -1,3 +1,3 @@
 # BoT-ironlabs
-
-project discard btw
+first ever hackathons project idk what we made 
+project discarded btw
